@@ -1,0 +1,95 @@
+{
+  "superpeers": [
+    {
+      "name": "1"
+    },
+    {
+      "name": "4"
+    },
+    {
+      "name": "11"
+    }
+  ],
+  "peer2peer": [
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "1"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "2"
+    },
+    {
+      "sourceName": "1",
+      "targetName": "3"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "4"
+    },
+    {
+      "sourceName": "4",
+      "targetName": "5"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "6"
+    },
+    {
+      "sourceName": "4",
+      "targetName": "7"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "8"
+    },
+    {
+      "sourceName": "1",
+      "targetName": "9"
+    },
+    {
+      "sourceName": "1",
+      "targetName": "10"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "11"
+    },
+    {
+      "sourceName": "4",
+      "targetName": "12"
+    },
+    {
+      "sourceName": "1",
+      "targetName": "13"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "14"
+    },
+    {
+      "sourceName": "4",
+      "targetName": "15"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "16"
+    },
+    {
+      "sourceName": "11",
+      "targetName": "17"
+    },
+    {
+      "sourceName": "11",
+      "targetName": "18"
+    },
+    {
+      "sourceName": "11",
+      "targetName": "19"
+    },
+    {
+      "sourceName": "11",
+      "targetName": "20"
+    }
+  ]
+}
