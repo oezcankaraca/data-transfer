@@ -1,31 +1,10 @@
 {
   "superpeers": [
     {
-      "name": "2"
+      "name": "3"
     },
     {
-      "name": "6"
-    },
-    {
-      "name": "10"
-    },
-    {
-      "name": "1"
-    },
-    {
-      "name": "14"
-    },
-    {
-      "name": "22"
-    },
-    {
-      "name": "29"
-    },
-    {
-      "name": "35"
-    },
-    {
-      "name": "45"
+      "name": "9"
     }
   ],
   "peer2peer": [
@@ -42,11 +21,11 @@
       "targetName": "3"
     },
     {
-      "sourceName": "2",
+      "sourceName": "3",
       "targetName": "4"
     },
     {
-      "sourceName": "lectureStudioServer",
+      "sourceName": "3",
       "targetName": "5"
     },
     {
@@ -54,23 +33,15 @@
       "targetName": "6"
     },
     {
-      "sourceName": "6",
+      "sourceName": "3",
       "targetName": "7"
     },
     {
-      "sourceName": "2",
+      "sourceName": "3",
       "targetName": "8"
     },
     {
-      "sourceName": "6",
-      "targetName": "9"
-    },
-    {
       "sourceName": "lectureStudioServer",
-      "targetName": "10"
-    },
-    {
-      "sourceName": "6",
       "targetName": "11"
     },
     {
@@ -78,155 +49,163 @@
       "targetName": "12"
     },
     {
-      "sourceName": "2",
-      "targetName": "13"
+      "sourceName": "lectureStudioServer",
+      "targetName": "9"
     },
     {
       "sourceName": "lectureStudioServer",
+      "targetName": "10"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "13"
+    },
+    {
+      "sourceName": "3",
       "targetName": "14"
     },
     {
-      "sourceName": "10",
+      "sourceName": "3",
       "targetName": "15"
     },
     {
-      "sourceName": "10",
+      "sourceName": "3",
+      "targetName": "20"
+    },
+    {
+      "sourceName": "3",
+      "targetName": "18"
+    },
+    {
+      "sourceName": "3",
+      "targetName": "19"
+    },
+    {
+      "sourceName": "3",
+      "targetName": "17"
+    },
+    {
+      "sourceName": "lectureStudioServer",
       "targetName": "16"
     },
     {
       "sourceName": "lectureStudioServer",
-      "targetName": "17"
-    },
-    {
-      "sourceName": "1",
-      "targetName": "18"
-    },
-    {
-      "sourceName": "1",
-      "targetName": "19"
-    },
-    {
-      "sourceName": "lectureStudioServer",
-      "targetName": "20"
-    },
-    {
-      "sourceName": "14",
       "targetName": "21"
     },
     {
-      "sourceName": "lectureStudioServer",
+      "sourceName": "9",
+      "targetName": "41"
+    },
+    {
+      "sourceName": "9",
       "targetName": "22"
     },
     {
-      "sourceName": "22",
-      "targetName": "23"
-    },
-    {
-      "sourceName": "22",
-      "targetName": "24"
+      "sourceName": "lectureStudioServer",
+      "targetName": "43"
     },
     {
       "sourceName": "lectureStudioServer",
-      "targetName": "25"
-    },
-    {
-      "sourceName": "2",
-      "targetName": "26"
-    },
-    {
-      "sourceName": "6",
       "targetName": "27"
     },
     {
-      "sourceName": "22",
-      "targetName": "28"
+      "sourceName": "lectureStudioServer",
+      "targetName": "40"
     },
     {
       "sourceName": "lectureStudioServer",
-      "targetName": "29"
+      "targetName": "46"
     },
     {
-      "sourceName": "29",
-      "targetName": "30"
-    },
-    {
-      "sourceName": "29",
+      "sourceName": "lectureStudioServer",
       "targetName": "31"
-    },
-    {
-      "sourceName": "1",
-      "targetName": "32"
-    },
-    {
-      "sourceName": "10",
-      "targetName": "33"
-    },
-    {
-      "sourceName": "29",
-      "targetName": "34"
     },
     {
       "sourceName": "lectureStudioServer",
       "targetName": "35"
     },
     {
-      "sourceName": "35",
-      "targetName": "36"
-    },
-    {
-      "sourceName": "35",
-      "targetName": "37"
-    },
-    {
-      "sourceName": "35",
-      "targetName": "38"
-    },
-    {
-      "sourceName": "35",
-      "targetName": "39"
-    },
-    {
-      "sourceName": "35",
-      "targetName": "40"
+      "sourceName": "lectureStudioServer",
+      "targetName": "29"
     },
     {
       "sourceName": "lectureStudioServer",
-      "targetName": "41"
+      "targetName": "36"
     },
     {
-      "sourceName": "29",
-      "targetName": "42"
+      "sourceName": "lectureStudioServer",
+      "targetName": "23"
     },
     {
-      "sourceName": "6",
-      "targetName": "43"
-    },
-    {
-      "sourceName": "1",
-      "targetName": "44"
+      "sourceName": "lectureStudioServer",
+      "targetName": "26"
     },
     {
       "sourceName": "lectureStudioServer",
       "targetName": "45"
     },
     {
-      "sourceName": "45",
-      "targetName": "46"
+      "sourceName": "lectureStudioServer",
+      "targetName": "44"
     },
     {
-      "sourceName": "45",
-      "targetName": "47"
+      "sourceName": "lectureStudioServer",
+      "targetName": "39"
     },
     {
-      "sourceName": "35",
+      "sourceName": "lectureStudioServer",
+      "targetName": "33"
+    },
+    {
+      "sourceName": "lectureStudioServer",
       "targetName": "48"
     },
     {
-      "sourceName": "45",
+      "sourceName": "lectureStudioServer",
+      "targetName": "34"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "47"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "42"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "24"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "30"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "25"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "37"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "38"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "28"
+    },
+    {
+      "sourceName": "lectureStudioServer",
+      "targetName": "32"
+    },
+    {
+      "sourceName": "9",
       "targetName": "49"
     },
     {
-      "sourceName": "45",
+      "sourceName": "9",
       "targetName": "50"
     }
   ]
